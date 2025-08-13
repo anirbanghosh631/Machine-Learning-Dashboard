@@ -1,4 +1,5 @@
-## Project Objective
+# Meteriological Drought Forecasting using Machine Learning Techniques.
+|## Project Objective
 The project aims to develop a reliable method for forecasting meteorological drought in Bankura district, West Bengal, using the Standardized Precipitation Index (SPI) and Long Short-Term Memory (LSTM) deep learning model. The goal is to improve drought prediction accuracy to aid in agricultural planning and water resource management.Project Description
 The study focuses on identifying and forecasting drought conditions using historical precipitation data. SPI is employed to quantify drought severity over different accumulation periods, and LSTM is used to forecast future drought conditions based on SPI time series. The approach emphasizes short-term prediction (1-month lead time) for timely decision-making.
  
