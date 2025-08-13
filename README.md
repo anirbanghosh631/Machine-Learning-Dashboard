@@ -30,4 +30,4 @@ The LSTM model for SPI-6 achieved RMSE = 0.58112, R² ≈ 65.1%, and Kendall ran
 
 
 
-Ask ChatGPT
+
