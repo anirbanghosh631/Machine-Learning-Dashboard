@@ -5,7 +5,7 @@ The study focuses on identifying and forecasting drought conditions using histor
 ## Project Description
 The study focuses on identifying and forecasting drought conditions using historical precipitation data. SPI is employed to quantify drought severity over different accumulation periods, and LSTM is used to forecast future drought conditions based on SPI time series. The approach emphasizes short-term prediction (1-month lead time) for timely decision-making.
 
--<a href= "https://github.com/anirbanghosh631/Machine-Learning-Dashboard/blob/main/Meteorological%20Drought%20Forecasting%20using%20Machine%20Learning%20Techniques.pdf">Meteriological Drought Forecasting using Machine Learning Techniques/a>
+-<a href= "https://github.com/anirbanghosh631/Machine-Learning-Dashboard/blob/main/Meteorological%20Drought%20Forecasting%20using%20Machine%20Learning%20Techniques.pdf">Meteriological Drought Forecasting using Machine Learning Techniques>
 
 ## Study Area and Dataset
 The study area is Bankura district, West Bengal, India, a drought-prone region despite receiving ~1400 mm annual rainfall due to erratic distribution. Data used includes monthly rainfall from 1981 to 2020, collected at coordinates 23.75°N, 87.75°E from the India Meteorological Department (IMD) website.
